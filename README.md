@@ -1,2 +1,5 @@
-# mandacaru2
-Repositório para subir os projetos do mandacaru
+# Projeto Mandacaru
+
+- Repositório para subir os projetos do mandacaru
+
+- Anderson Almada
